@@ -19,6 +19,6 @@ I am a year 3 computer science student in The Chinese University of Hong Kong.
 
 ## My favourite book
 <ul>
-<li> Kevin P. Murphy - *Probabilistic Machine Learning: An Introduction* </li>
+<li> Kevin P. Murphy - Probabilistic Machine Learning: An Introduction </li>
 </ul>
 
