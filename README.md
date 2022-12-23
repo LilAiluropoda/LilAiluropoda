@@ -1,3 +1,4 @@
+# Profile
 ## About Me
 Hello, I am Steve Cheng. 
 I am a year 3 computer science student in The Chinese University of Hong Kong.
@@ -5,17 +6,17 @@ I am a year 3 computer science student in The Chinese University of Hong Kong.
 *"All models are wrong, but some are useful"* - George E. P. Box
 
 ## Concentration
-<list>
-<item> Data Analysis </item>
-<item> Software Engineering </item>
+<ul>
+<li> Data Analysis </li>
+<li> Software Engineering </li>
 
 ## Tech Stack
-<list>
-<item> Python </item>
-<item> C </item>
-<item> Java </item>
+<ul>
+<li> Python </li>
+<li> C </li>
+<li> Java </li>
 
 ## My favourite book
-<list>
-<item> Kevin P. Murphy - Probabilistic Machine Learning: An Introduction </item>
+<ul>
+<li> Kevin P. Murphy - Probabilistic Machine Learning: An Introduction </li>
 
