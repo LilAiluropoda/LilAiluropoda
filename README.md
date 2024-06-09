@@ -1,8 +1,3 @@
-## About Me
-Hello, I am Steve Cheng. 
-I am a year 4 computer science student at The Chinese University of Hong Kong.
-
-*"All models are wrong, but some are useful"* - George E. P. Box
-
-
-
+# About Me
+Hey, welcome to my page.
+I am *Steve Cheng*, a Senior Computer Science student at The Chinese University of Hong Kong.
